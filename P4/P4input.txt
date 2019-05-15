@@ -1,0 +1,8 @@
+1:{fra,frb,frc,frd,fre}
+2:{vga,frb,vgc,vgd,vge}
+3:{vha,vhb,vhc,vhd,vhe}
+4:{dta,dtb,dtc,dtd,dte}
+5:{ina,inb,inc,ind,ine}
+
+operation:
+1U2

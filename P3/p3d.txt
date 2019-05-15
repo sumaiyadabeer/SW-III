@@ -1,0 +1,6 @@
+sumaiya	dabeer	sum
+khadija dabir	papeeta
+syed	mohd	usman
+
+input:
+

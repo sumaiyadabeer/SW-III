@@ -1,0 +1,6 @@
+Un{a,b,c,d,e,f,g,h,i,j,k}
+A:(a,b,c,d,e)
+B:(d,e,f,g,h)
+C:(i,j,b,e,f)
+PLEASE CHOOSE SETS UNDER OPERATION...
+A C
